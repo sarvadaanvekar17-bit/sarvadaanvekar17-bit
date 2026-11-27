@@ -26,7 +26,7 @@
 <!-- ================= ABOUT ME ================= -->
 
 ## 👩‍💻 About Me
-Computer Science Engineering Graduate | Aspiring Full Stack Developer | Exploring Generative AI | Building creative web experiences with code.
+
 ```javascript
 const sarvada = {
     name: "Sarvada Anvekar",
