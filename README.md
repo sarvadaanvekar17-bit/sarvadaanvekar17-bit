@@ -304,16 +304,6 @@ Travel-focused web application with destination exploration and booking-related 
     alt="Purple blue wave footer"
   />
 </p>
-
-<!-- PROFILE FOOTER -->
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:6A5ACD,100:00D4FF&height=150&section=footer&animation=twinkling"
-    width="100%"
-    alt="Animated profile footer"
-  />
-</p>
-
 <p align="center">
   <b>Thanks for visiting my profile! 💜</b>
 </p>
