@@ -23,29 +23,54 @@
 
 ---
 
-<!-- ================= ABOUT ME ================= -->
 
-## 👩‍💻 About Me
+<h2 align="center">👩‍💻 About Me</h2>
 
-```javascript
-const sarvada = {
-    name: "Sarvada Anvekar",
-    role: "Aspiring Full Stack Developer",
-    education: "B.Tech Computer Science Engineering",
-    interests: [
-        "Full Stack Development",
-        "Generative AI",
-        "Web Development",
-        "Problem Solving"
-    ],
-    currentlyLearning: [
-        "JavaScript",
-        "React",
-        "Java Spring Boot",
-        "AI Technologies"
-    ],
-    goal: "Building useful applications and growing as a developer"
-};
+<h3 align="center">Hi, I'm Sarvada Anvekar! 👋</h3>
+
+<p align="center">
+  <b>Computer Science Engineering Graduate | Aspiring Full Stack Developer</b>
+</p>
+
+<p align="center">
+  I enjoy turning ideas into interactive digital experiences
+  and exploring how AI can make applications smarter.
+  I'm passionate about building, experimenting and continuously learning.
+</p>
+
+---
+
+### ✨ What I'm Passionate About
+
+- 💻 Building responsive and interactive web applications.
+- ⚡ Exploring Full Stack Development.
+- 🤖 Learning and experimenting with Generative AI.
+- 🧩 Improving my problem-solving and coding skills.
+- 🚀 Turning creative ideas into real-world projects.
+
+### 🛠️ Currently Exploring
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Generative_AI-8B5CF6?style=flat-square"/>
+</p>
+
+### 🎯 My Goal
+
+To become a skilled Full Stack Developer and explore
+opportunities at the intersection of software development
+and Artificial Intelligence.
+
+---
+
+<h3 align="center">
+  💜 Build. Learn. Improve. Repeat.
+</h3>
+
 ```
 
 - 🔭 I enjoy building interactive and user-friendly web applications.
