@@ -1,11 +1,15 @@
 
 <!-- ================= PROFILE HEADER ================= -->
 
-<div align="center">
-  <img src="assets/profile-banner.svg"
-       width="100%"
-       alt="Sarvada Anvekar - Developer Banner"/>
-</div>
+
+<!-- ANIMATED HEADER -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:6A5ACD,100:00D4FF&height=220&section=header&text=SARVADA%20ANVEKAR&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=FULL%20STACK%20DEVELOPMENT%20%7C%20GENERATIVE%20AI&descAlignY=60&descSize=15"
+    width="100%"
+    alt="Animated developer header"
+  />
+</p>
 
 <div align="center">
 
@@ -236,3 +240,13 @@ A personal productivity dashboard focused on task management and improving every
 **"Code. Create. Learn. Repeat."**
 
 </div>
+
+<!-- ANIMATED FOOTER -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:6A5ACD,100:00D4FF&height=120&section=footer"
+    width="100%"
+    alt="Purple blue wave footer"
+  />
+</p>
+
