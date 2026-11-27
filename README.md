@@ -112,62 +112,6 @@ and Artificial Intelligence.
 </p>
 
 
-<!-- ================= PROJECTS ================= -->
-
-## 🚀 Featured Projects
-
-### 🍔 BiteBox — Food Ordering Application
-
-A food ordering website designed to provide a smooth browsing and ordering experience.
-
-- Interactive food menu and cart functionality.
-- Responsive website interface.
-- Dynamic pricing and discount features.
-
-**Technologies:** HTML, CSS, JavaScript
-
-🔗 [Live Demo](https://bitebox-blush-omega.vercel.app/) | [Source Code](https://github.com/sarvadaanvekar17-bit/bitebox)
-
----
-
-### 🌌 COSMORA — Space Explorer
-
-An interactive space exploration website for discovering planets, galaxies, missions and fascinating space facts.
-
-- Multiple informative pages.
-- Interactive space-themed elements.
-- Animated visual experience.
-
-**Technologies:** HTML, CSS, JavaScript
-
-🔗 [Live Demo](https://cosmoraspaceexplorer.vercel.app/) | [Source Code](https://github.com/sarvadaanvekar17-bit/COSMORA_SpaceExplorer)
-
----
-
-### ✈️ US.par — Travel Application
-
-A travel-focused web application designed to explore destinations and travel experiences.
-
-- Travel destination discovery.
-- User-friendly interface.
-- Responsive design.
-
-**Technologies:** HTML, CSS, JavaScript
-
-🔗 [Live Demo](https://uspar-travel-app.vercel.app/) | [Source Code](https://github.com/sarvadaanvekar17-bit/US.par-Travel-App)
-
----
-
-### 📊 SARTECH — Productivity Dashboard
-
-A personal productivity dashboard focused on task management and improving everyday organization.
-
-**Technologies:** HTML, CSS, JavaScript
-
-🔗 [Source Code](https://github.com/sarvadaanvekar17-bit)
-
----
-
 
 <!-- GITHUB STATISTICS -->
 <h2 align="center">📊 GitHub Analytics</h2>
