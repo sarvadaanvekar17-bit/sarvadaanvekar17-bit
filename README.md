@@ -2,6 +2,12 @@
 <!-- ================= PROFILE HEADER ================= -->
 
 <div align="center">
+  <img src="assets/profile-banner.svg"
+       width="100%"
+       alt="Sarvada Anvekar - Developer Banner"/>
+</div>
+
+<div align="center">
 
 # Hey there, I'm Sarvada Anvekar 👋
 
