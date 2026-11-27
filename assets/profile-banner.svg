@@ -1,0 +1,67 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#080D20"/>
+      <stop offset="55%" stop-color="#171044"/>
+      <stop offset="100%" stop-color="#080D20"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
+    </linearGradient>
+    <filter id="blur">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="320" rx="22" fill="url(#bg)"/>
+
+  <circle cx="980" cy="140" r="120" fill="#6633FF" opacity=".17" filter="url(#blur)"/>
+  <circle cx="190" cy="300" r="110" fill="#2563EB" opacity=".18" filter="url(#blur)"/>
+
+  <g fill="#FFFFFF" opacity=".65">
+    <circle cx="90" cy="65" r="2"/>
+    <circle cx="270" cy="220" r="2"/>
+    <circle cx="440" cy="55" r="1.5"/>
+    <circle cx="720" cy="250" r="2"/>
+    <circle cx="880" cy="65" r="2"/>
+    <circle cx="1080" cy="240" r="2"/>
+    <circle cx="1140" cy="90" r="1.5"/>
+  </g>
+
+  <g fill="none" stroke="url(#glow)" opacity=".65">
+    <ellipse cx="1010" cy="160" rx="150" ry="55" transform="rotate(-25 1010 160)" stroke-width="2"/>
+    <ellipse cx="1010" cy="160" rx="110" ry="38" transform="rotate(-25 1010 160)" stroke-width="1"/>
+  </g>
+
+  <g transform="translate(980 100)">
+    <rect x="0" y="0" width="130" height="95" rx="12"
+          fill="#111A36" stroke="#818CF8" stroke-width="2"/>
+    <text x="65" y="60" font-family="monospace" font-size="42"
+          text-anchor="middle" fill="#A5B4FC">&lt;/&gt;</text>
+    <path d="M-12 105 H142 L125 115 H5 Z" fill="#6366F1"/>
+  </g>
+
+  <text x="65" y="115" fill="#A5B4FC"
+        font-family="monospace" font-size="18" letter-spacing="4">
+    HELLO, WORLD! I'M SARVADA
+  </text>
+
+  <text x="65" y="177" fill="#FFFFFF"
+        font-family="Arial, sans-serif" font-size="43" font-weight="bold">
+    Code. Create. Learn.
+  </text>
+
+  <text x="65" y="224" fill="#C4B5FD"
+        font-family="Arial, sans-serif" font-size="34" font-weight="bold">
+    Repeat.
+  </text>
+
+  <rect x="65" y="255" width="440" height="3" rx="2" fill="url(#glow)"/>
+
+  <text x="65" y="286" fill="#94A3B8"
+        font-family="Arial, sans-serif" font-size="16">
+    FULL STACK DEVELOPMENT  •  GENERATIVE AI
+  </text>
+</svg>
