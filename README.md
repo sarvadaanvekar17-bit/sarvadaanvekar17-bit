@@ -195,7 +195,59 @@ A personal productivity dashboard focused on task management and improving every
   />
 </p>
 
-<br/>
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<p align="center">
+  A few things I've designed, developed and brought to life.
+</p>
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+<h3>🍔 BiteBox</h3>
+
+Food Ordering Website
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+<a href="https://bitebox-blush-omega.vercel.app/">Live Demo</a> · <a href="https://github.com/sarvadaanvekar17-bit/bitebox">Source Code</a>
+
+</td>
+<td width="50%" align="center">
+
+<h3>🌌 COSMORA</h3>
+
+Interactive Space Explorer
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+<a href="https://cosmoraspaceexplorer.vercel.app/">Live Demo</a> · <a href="https://github.com/sarvadaanvekar17-bit/COSMORA_SpaceExplorer">Source Code</a>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+<h3>✈️ US.par — Travel Application</h3>
+
+Travel-focused web application with destination exploration and booking-related pages.
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+<a href="https://uspar-travel-app.vercel.app/">Live Demo</a> · <a href="https://github.com/sarvadaanvekar17-bit/US.par-Travel-App">Source Code</a>
+
+</td>
+</tr>
+</table>
+
 
 <!-- =============== PROFILE ACTIVITY =============== -->
 
@@ -252,4 +304,22 @@ A personal productivity dashboard focused on task management and improving every
     alt="Purple blue wave footer"
   />
 </p>
+
+<!-- PROFILE FOOTER -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:6A5ACD,100:00D4FF&height=150&section=footer&animation=twinkling"
+    width="100%"
+    alt="Animated profile footer"
+  />
+</p>
+
+<p align="center">
+  <b>Thanks for visiting my profile! 💜</b>
+</p>
+
+<p align="center">
+  <i>Keep building. Keep learning. Keep growing.</i>
+</p>
+
 
