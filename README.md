@@ -132,21 +132,42 @@ A personal productivity dashboard focused on task management and improving every
 
 <!-- ================= GITHUB STATS ================= -->
 
-## 📊 GitHub Statistics
+
+<!-- =============== GITHUB STATISTICS =============== -->
+
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sarvadaanvekar17-bit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <!-- GitHub Stats -->
+  <img width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=sarvadaanvekar17-bit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    alt="GitHub Statistics" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvadaanvekar17-bit&layout=compact&theme=tokyonight&hide_border=true" />
+  <!-- Top Languages -->
+  <img width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvadaanvekar17-bit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Most Used Languages" />
 
-<br/>
+  <br/><br/>
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=sarvadaanvekar17-bit&theme=tokyonight&hide_border=true" />
+  <!-- Contribution Streak -->
+  <img width="70%"
+    src="https://streak-stats.demolab.com?user=sarvadaanvekar17-bit&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak Statistics" />
 
 </div>
 
----
+<br/>
+
+<!-- =============== PROFILE ACTIVITY =============== -->
+
+<h3 align="center">⚡ Keep Building. Keep Growing.</h3>
+
+<p align="center">
+  <i>Every commit is another step forward.</i>
+</p>
+
 
 <!-- ================= CONTRIBUTIONS ================= -->
 
