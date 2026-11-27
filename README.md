@@ -195,14 +195,6 @@ A personal productivity dashboard focused on task management and improving every
   />
 </p>
 
-
-  <!-- Contribution Streak -->
-  <img width="70%"
-    src="https://streak-stats.demolab.com?user=sarvadaanvekar17-bit&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak Statistics" />
-
-</div>
-
 <br/>
 
 <!-- =============== PROFILE ACTIVITY =============== -->
