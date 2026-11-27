@@ -71,7 +71,6 @@ and Artificial Intelligence.
   💜 Build. Learn. Improve. Repeat.
 </h3>
 
-```
 
 - 🔭 I enjoy building interactive and user-friendly web applications.
 - 🌱 Currently strengthening my frontend and backend development skills.
