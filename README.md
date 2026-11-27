@@ -168,26 +168,33 @@ A personal productivity dashboard focused on task management and improving every
 
 ---
 
-<!-- ================= GITHUB STATS ================= -->
 
-
-<!-- =============== GITHUB STATISTICS =============== -->
-
+<!-- GITHUB STATISTICS -->
 <h2 align="center">📊 GitHub Analytics</h2>
 
-<div align="center">
+<p align="center">
+  <img
+    width="49%"
+    src="https://github-stats-extended.vercel.app/api?username=sarvadaanvekar17-bit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=00D4FF"
+    alt="GitHub Statistics"
+  />
+  <img
+    width="49%"
+    src="https://streak-stats.demolab.com?user=sarvadaanvekar17-bit&theme=dark&hide_border=true&background=0D1117"
+    alt="GitHub Contribution Streak"
+  />
+</p>
 
-  <!-- GitHub Stats -->
-  <img width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=sarvadaanvekar17-bit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
-    alt="GitHub Statistics" />
+<!-- TOP PROGRAMMING LANGUAGES -->
+<h2 align="center">💻 Most Used Languages</h2>
 
-  <!-- Top Languages -->
-  <img width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvadaanvekar17-bit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Most Used Languages" />
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=sarvadaanvekar17-bit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA"
+    alt="Most Used Programming Languages"
+  />
+</p>
 
-  <br/><br/>
 
   <!-- Contribution Streak -->
   <img width="70%"
