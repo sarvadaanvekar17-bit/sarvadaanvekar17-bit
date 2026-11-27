@@ -82,27 +82,35 @@ and Artificial Intelligence.
 
 <!-- ================= TECH STACK ================= -->
 
-## ⚡ Tech Stack & Tools
 
-### Languages
+<h2 align="center">⚡ Tech Arsenal</h2>
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,html,css,js" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Frontend+Development;Backend+Development;Programming+%26+Problem+Solving;Exploring+Generative+AI" />
 </p>
 
-### Frameworks & Libraries
+<h3 align="center">💻 Languages & Frontend</h3>
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,spring,bootstrap" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap&theme=dark" />
 </p>
 
-### Tools & Platforms
+<h3 align="center">⚙️ Backend & Programming</h3>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python&theme=dark" />
 </p>
 
----
+<h3 align="center">🔧 Tools & Technologies</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Generative%20AI-Exploring-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
 
 <!-- ================= PROJECTS ================= -->
 
