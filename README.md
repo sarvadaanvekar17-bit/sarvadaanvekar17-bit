@@ -13,10 +13,6 @@
 
 <div align="center">
 
-# Hey there, I'm Sarvada Anvekar 👋
-
-### `Aspiring Full Stack Developer` | `Generative AI Enthusiast`
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Ideas+Into+Reality;Exploring+Full+Stack+Development;Learning+Generative+AI;Creating+Web+Experiences" alt="Typing SVG" />
 
 <br/>
